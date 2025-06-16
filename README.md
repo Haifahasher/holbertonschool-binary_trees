@@ -1,1 +1,3 @@
-will update this later
+# Binary Trees Project
+
+Contributors: Haifa & Bushra
