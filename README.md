@@ -163,7 +163,6 @@ int main(void)
 
 ## Author
 
-**Haifa Hasher**
+HaifahasherHolberton School — Binary Trees Project
 
-Bushra Alotaibi
-Holberton School — Binary Trees Project
+Bushra2252Holberton School — Binary Trees Project
